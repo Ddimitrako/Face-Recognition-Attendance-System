@@ -1,0 +1,27 @@
+body {
+font-family: 'Lato', arial, sans-serif;
+font-size: 20px;
+line-height: 1.5;
+font-weight: 300;
+background-color: #2e2e2e !important;
+}
+.container{
+  color:red;
+}
+#buttonUP{
+  color : rgb(150,3,5);
+}
+#buttonDOWN{
+  color : blue;
+
+}
+#buttonLEFT{
+  color : green;
+
+}
+#buttonRIGHT{
+  color : orange;
+}
+.column{
+  text-align:center;
+}
