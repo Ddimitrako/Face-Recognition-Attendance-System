@@ -9,6 +9,13 @@ Also the result of the video after the process is streamed to a web page where t
 --A future implementation is to open the central door of the building with face recognition --
 
 # Main-Devices
-This project is implemented in a raspberry pi4 with 4GB of ram overclocked to 2GHz.
-The ip camera is a Vstarcam C7824Wip.
+This project is implemented in a raspberry pi4 with 4GB of ram overclocked to 2GHz. @60 euros
+The ip camera is a Vstarcam C7824Wip. @40 euros
 
+# Some example photos 
+![](screenshots/streaming.jpg) 
+![](screenshots/camera.jpg) 
+![](screenshots/raspberry.jpg)
+![](screenshots/screenshot1.jpg)
+
+ 
