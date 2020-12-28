@@ -13,9 +13,9 @@ This project is implemented in a raspberry pi4 with 4GB of ram overclocked to 2G
 The ip camera is a Vstarcam C7824Wip. @40 euros
 
 # Some example photos 
-![](screenshots/streaming.jpg) 
+![](screenshots/streaming.png) 
 ![](screenshots/camera.jpg) 
 ![](screenshots/raspberry.jpg)
-![](screenshots/screenshot1.jpg)
+![](screenshots/screenshot1.png)
 
  
