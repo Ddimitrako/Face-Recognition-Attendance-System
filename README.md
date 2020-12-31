@@ -1,5 +1,5 @@
 # Face Recognition-Attendance System
-The whole app is written in Python 3.8.
+The whole app is written in Python 3.8. and Flask web Framework.
 It runs on a raspberry pi4.
 The main algorithm proccesses every frame from the streamed video of an ip camera.
 Then if there is human face in the frame it compares it with the stored images of our company employees.
