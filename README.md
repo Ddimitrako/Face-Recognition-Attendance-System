@@ -12,6 +12,13 @@ Also the result of the video after the process is streamed to a web page where t
 This project is implemented in a raspberry pi4 with 4GB of ram overclocked to 2GHz. @60 euros
 The ip camera is a Vstarcam C7824Wip. @40 euros
 
+# Required Libraries
+python 3 recommended
+open-cv
+Dlib
+face-recognition
+Installing instraction: https://smartbuilds.io/installing-face-recognition-library-on-raspberry-pi-4/
+
 # Some example photos 
 ![](screenshots/Streaming.png)
 ![](screenshots/screenshot1.png) 
